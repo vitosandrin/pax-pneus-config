@@ -1,0 +1,12 @@
+{
+  "banners": [
+    { "url": "https://drive.google.com/uc?export=view&id=1Y6iEwvFgZUYYmvW7jeS10ifbRw54nwPH" },
+    { "url": "https://drive.google.com/uc?export=view&id=1huGGvVpSa-I5y3iZTmxY1ZAYt6Hz_0Y_" }
+  ],
+  "items": [
+    { "title": "Pneu Aro 13", "price": 249 },
+    { "title": "Pneu Aro 14", "price": 279 },
+    { "title": "Pneu Aro 15", "price": 300 },
+    { "title": "Pneu Aro 16", "price": 359 }
+  ]
+}
