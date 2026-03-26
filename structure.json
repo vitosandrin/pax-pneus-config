@@ -1,7 +1,8 @@
 {
   "banners": [
     { "url": "https://raw.githubusercontent.com/vitosandrin/pax-pneus-config/refs/heads/main/banners/banner1.png" },
-    { "url": "https://raw.githubusercontent.com/vitosandrin/pax-pneus-config/refs/heads/main/banners/banner2.png" }
+    { "url": "https://raw.githubusercontent.com/vitosandrin/pax-pneus-config/refs/heads/main/banners/banner2.png" },
+    { "url": "https://raw.githubusercontent.com/vitosandrin/pax-pneus-config/refs/heads/main/banners/banner3.png" }
   ],
   "items": [
     { "title": "Pneu Aro 13", "price": 249 },
